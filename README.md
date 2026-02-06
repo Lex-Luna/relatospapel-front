@@ -53,7 +53,7 @@ Este repositorio contiene el front‑end de la aplicación web del proyecto tran
 1. Clona el repositorio:
 
    ```bash
-   git clone <URL_DEL_REPOSITORIO>
+   git clone <https://github.com/Lex-Luna/relatospapel-front.git>
    cd master-frontend
    ```
 
